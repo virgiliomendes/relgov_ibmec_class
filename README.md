@@ -6,7 +6,7 @@
 
 <h3 align="center">
 
-Aula de Relações Governamentais para o Curso de Relações Internacionais do IBMEC-BH: Relações Governamentais e Ciência de DadosInteligência e Aplicações.
+Aula de Relações Governamentais para o Curso de Relações Internacionais do IBMEC-BH: Relações Governamentais e Ciência de Dados, Inteligência e Aplicações.
 
 
 </h3>
