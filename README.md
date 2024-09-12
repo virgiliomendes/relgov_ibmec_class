@@ -6,7 +6,8 @@
 
 <h3 align="center">
 
-Aula Experimental: Lobby e Relações Governamentais na área de Relações Internacionais
+Aula de Relações Governamentais para o Curso de Relações Internacionais do IBMEC-BH: Relações Governamentais e Ciência de DadosInteligência e Aplicações.
+
 
 </h3>
 
@@ -14,7 +15,7 @@ Aula Experimental: Lobby e Relações Governamentais na área de Relações Inte
 
 <p align="center">
 
-Este repositório se propõe a organizar as documentações da aula experimental. A temática da aula será: Lobismo no poder legislativo. <br />
+Este repositório se propõe a organizar as documentações da aula. A aula será ministrada dia 13/09/2024. <br />
 
 </p>
 
